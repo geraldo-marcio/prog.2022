@@ -1,6 +1,6 @@
 # Curso de Programação - IFES 2022
 
-Sejam todos bem vindos ao nosso curso de programação web,nele vamos estar abordando desde os conteúdos.
+Sejam todos bem vindos ao nosso curso de programação web, nele vamos estar abordando vários conteúdos que serão base para o andamento do deste curso, espero que acompanhem o material, pratiquem muito, e busquem fontes de informações complementares, para enriquecer ainda mais o aprendizado de vocês, segue à baixo o cronograma do nosso curso, junto com materiais e arquivos que estarei adicionando para os futuros projetos que estaremos elaborando.
 
 - Lógica de Programação:
 
