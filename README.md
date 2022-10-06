@@ -1,4 +1,9 @@
-# Título do projeto
+# Curso de Programação - IFES 2022
+
+Sejam todos bem vindos ao nosso curso de programação web,nele vamos estar abordando desde os conteúdos mais básicos como.
+
+- Lógica de Programação 
+-   ( Algoritimo, Variaveis, Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, 
 
 Um parágrafo da descrição do projeto vai aqui
 
