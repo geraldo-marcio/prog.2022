@@ -12,7 +12,7 @@ Sejam todos bem vindos ao nosso curso de programação web, nele vamos estar abo
     Conhecendo o Scratch,construindo meu primeiro código com Scratch, aplicando lógica de programação ao script, criando Algoritimos, Variáveis, Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, REPITA ATE, MENSAGENS, Cetegoria Controle, Movimento, Sensores, Caneta 
    )
 
-- HyperText Markup Language ou Linguagem de Formatação de Hipertexto:
+- Conhecendo o HTML ou HyperText Markup Language ou Linguagem de Formatação de Hipertexto
 
   (
     REGRAS DO HTML, TAGS, PARTES BÁSICAS DO HTML, ESTRUTURA BÁSICA
