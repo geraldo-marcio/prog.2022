@@ -11,6 +11,8 @@ Sejam todos bem vindos ao nosso curso de programação web,nele vamos estar abor
   ( Conhecendo o Scratch,construindo meu primeiro código com Scratch, aplicando lógica de programação ao script, criando Algoritimos, Variáveis,            Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, REPITA ATE, MENSAGENS, Cetegoria Controle, 
    Movimento, Sensores, Caneta )
 
+-     
+
 Um parágrafo da descrição do projeto vai aqui
 
 ## 🚀 Começando
@@ -21,11 +23,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+Este módulo foi desenvolvido para oferecer uma preparação inicial às pessoas que desejam se aprofundar no conhecimento da área de programação. Assim, a sugestão é oferecer este curso para jovens acima de 14 anos e para adultos que buscam novas possibilidades profissionais.
 
 ### 🔧 Instalação
 
