@@ -3,7 +3,7 @@
 Sejam todos bem vindos ao nosso curso de programação web,nele vamos estar abordando desde os conteúdos mais básicos como.
 
 - Lógica de Programação 
--   ( Algoritimo, Variaveis, Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, 
+  ( Algoritimo, Variáveis, Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, REPITA ATE, MENSAGENS,       Cetegoria Controle, Movimento, Sensores, Caneta )   
 
 Um parágrafo da descrição do projeto vai aqui
 
