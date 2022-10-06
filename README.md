@@ -1,9 +1,15 @@
 # Curso de Programação - IFES 2022
 
-Sejam todos bem vindos ao nosso curso de programação web,nele vamos estar abordando desde os conteúdos mais básicos como.
+Sejam todos bem vindos ao nosso curso de programação web,nele vamos estar abordando desde os conteúdos.
 
-- Lógica de Programação 
-  ( Algoritimo, Variáveis, Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, REPITA ATE, MENSAGENS,       Cetegoria Controle, Movimento, Sensores, Caneta )   
+- Lógica de Programação:
+
+  ( Algoritimos, Variáveis, Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, REPITA ATE, MENSAGENS,       Cetegoria Controle, Movimento, Sensores, Caneta ) 
+
+- Programação com Scratch:
+  
+  ( Conhecendo o Scratch,construindo meu primeiro código com Scratch, aplicando lógica de programação ao script, criando Algoritimos, Variáveis,            Operadores Relacionais e Lógicos, Condicionais SE e SE/SENÃO, Repetição SEMPRE, SEMPRE SE, REPITA, REPITA ATE, MENSAGENS, Cetegoria Controle, 
+   Movimento, Sensores, Caneta )
 
 Um parágrafo da descrição do projeto vai aqui
 
@@ -83,8 +89,8 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/geraldo-marcio)
+* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/geraldo-marcio)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
@@ -101,4 +107,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Prof. Geraldo Márcio](https://linktr.ee/cursos.ib) 😊
