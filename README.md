@@ -14,9 +14,9 @@ Sejam todos bem vindos ao nosso curso de programação web, nele vamos estar abo
 
 - Conhecendo o HTML ou HyperText Markup Language ou Linguagem de Formatação de Hipertexto
 
-  (
+   (
     REGRAS DO HTML, TAGS, PARTES BÁSICAS DO HTML, ESTRUTURA BÁSICA
-  )
+   )
 
 - Introdução ao CSS ou Cascading Style Sheets
 
