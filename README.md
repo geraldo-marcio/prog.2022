@@ -18,6 +18,12 @@ Sejam todos bem vindos ao nosso curso de programação web, nele vamos estar abo
     REGRAS DO HTML, TAGS, PARTES BÁSICAS DO HTML, ESTRUTURA BÁSICA
   )
 
+- Introdução ao CSS ou Cascading Style Sheets
+
+(
+  CSS (Cascading Style Sheets) é uma linguagem de criação de estilos, que quando combinados determinam qual será a aparência de uma página web.
+ )
+ 
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
