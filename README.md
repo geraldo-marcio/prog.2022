@@ -21,7 +21,7 @@ Sejam todos bem vindos ao nosso curso de programação web, nele vamos estar abo
 - Introdução ao CSS ou Cascading Style Sheets
 
 (
-  CSS (Cascading Style Sheets) é uma linguagem de criação de estilos, que quando combinados determinam qual será a aparência de uma página web.
+  CSS "Cascading Style Sheets" é uma linguagem de criação de estilos, que quando combinados determinam qual será a aparência de uma página web.
  )
  
 ## 🚀 Começando
