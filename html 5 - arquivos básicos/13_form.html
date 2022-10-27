@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Formulário</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <!--
+        Vamos então criar um formulário simples porém completo, o method informa como será feito o envio dos dados, 
+        GET normalmente é utilizado para buscas, e o POST que é um envio de forma segura, normalmente usado para envio 
+        de informações para banco de dados, o action como ele vai estar fazendo, normalmente utilizando um outro arquivo
+    -->
+
+    <form method="post" action="">
+        <div>
+            <label for="username">Nome do usuário</label>
+        </div>
+        <div>
+            <input type="text" name="usarname" placeholder="Preencha o nome do seu usuário">
+        </div>
+        <div>
+            <label for="password">Senha</label>
+        </div>
+        <div>
+            <input type="password" name="password" placeholder="Digite sua senha" required>
+        </div>
+        <div>
+            <input type="submit" value="Enviar">
+        </div>
+    </form>
+
+</body>
+
+</html>
