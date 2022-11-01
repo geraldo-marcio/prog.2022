@@ -1,0 +1,14 @@
+h3 {
+    background-color: aquamarine;
+}
+
+#titulo-principal {
+    font-size: 45px;
+}
+
+.titulos {
+    border: 1px solid royalblue;
+}
+.pets{
+    border: 20px solid blanchedalmond;
+}
