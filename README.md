@@ -26,9 +26,10 @@ Sejam todos bem vindos ao nosso curso de programação web, nele vamos estar abo
  
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+   O real objetivo deste conteúdo é documentar o passo a passo sem saltar nenhuma etapa dos conteúdos essenciais para construção de um site,
+foi pensado para ser possivel executar utilizando apénas o navegador, e ferramentas web para edição, algo que para os usuários iniciantes é
+o necessário para dar seus primeiros passos.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
@@ -38,51 +39,25 @@ Este módulo foi desenvolvido para oferecer uma preparação inicial às pessoas
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Diga como essa etapa será:
 
-```
-Dar exemplos
-```
+1º Acesse o seu browser de preferência, recomendo que seja o Google Chrome, Firefox, Safari, na versão mais recente, baixe os arquivos disponiveis no GitHub
 
-E repita:
+2º Após baixar, é interessante criar um novo arquivo e manter os que foram baixados como base de conhecimento, pois foram minunciosamente pensados para atender
+e trazer as principais caracteristicas e funcionálidades presentes em cada respectiva linguagem.
 
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Será utilizado HTML5 respeitando a semantica, e tag's atualizadas.
+CSS3 sendo utilizado de forma inline como ferramenta didática, e externa respeitando as boas práticas.
 
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) - O programa usado para trabalhar o conceito de lógica
+* [Visial Studio Code](hhttps://vscode.dev/) - Editor de texto recomendado para o nosso curso.
+* [GitHub](https://github.com/) - Plataforma utilizada para disponibilização do material, controle de versão e implementação de conteúdo didático.
 
 ## 🖇️ Colaborando
 
