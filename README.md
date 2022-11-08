@@ -56,7 +56,7 @@ CSS3 sendo utilizado de forma inline como ferramenta didática, e externa respei
 Mencione as ferramentas que você usou para criar seu projeto
 
 * [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) - O programa usado para trabalhar o conceito de lógica
-* [Visial Studio Code](hhttps://vscode.dev/) - Editor de texto recomendado para o nosso curso.
+* [Visial Studio Code](https://vscode.dev/) - Editor de texto recomendado para o nosso curso.
 * [GitHub](https://github.com/) - Plataforma utilizada para disponibilização do material, controle de versão e implementação de conteúdo didático.
 
 ## 🖇️ Colaborando
